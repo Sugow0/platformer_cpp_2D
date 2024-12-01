@@ -1,0 +1,16 @@
+﻿  DeathMenu.cpp
+  Entity.cpp
+  LevelSelectMenu.cpp
+E:\Ynov\2D\CPP\platformer\LevelSelectMenu.cpp(14,35): warning C4244: 'argument' : conversion de 'size_t' en 'float', perte possible de données
+E:\Ynov\2D\CPP\platformer\LevelSelectMenu.cpp(36,50): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  MainMenu.cpp
+  Mob.cpp
+  PauseMenu.cpp
+  Platform.cpp
+  platformer.cpp
+  Player.cpp
+  ResourceManager.cpp
+  SceneManager.cpp
+  World.cpp
+  Génération de code en cours...
+  platformer.vcxproj -> E:\Ynov\2D\CPP\platformer\x64\Debug\platformer.exe
